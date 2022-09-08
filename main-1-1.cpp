@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+#include <ASSET_H>
 #include <string>
 int main(){
 Asset *first, *second;
