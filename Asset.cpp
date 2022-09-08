@@ -36,12 +36,12 @@ Asset::Asset(int value, std::string product_type){
 }
 
 std::string Asset::get_product_type(){
-std::cout << productA << std::endl;
+//std::cout << productA << std::endl;
 return productA;
 }	
 
 int Asset::get_value(){
-	std::cout << valueA << std::endl;
+	//std::cout << valueA << std::endl;
 	return valueA;
 }
 
