@@ -21,7 +21,6 @@ int get_value();
 
 
 #include <iostream>
-#include <Asset.h>
 #include <string>
 int main(){
 Asset *first, *second;

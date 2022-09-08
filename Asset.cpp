@@ -1,6 +1,5 @@
 
 #include <iostream>
-#include <Asset.h>
 #include <string>
 
 #include <iostream>
