@@ -40,7 +40,7 @@ std::cout << productA << std::endl;
 return productA;
 }	
 
-int get_value(){
+int Asset::get_value(){
 	std::cout << valueA << std::endl;
 	return valueA;
 }
