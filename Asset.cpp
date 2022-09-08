@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include <Asset.h>
+
 #include <string>
 
 Asset::Asset(){
